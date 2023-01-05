@@ -83,7 +83,7 @@ Thanks for visiting my profile!
   <a href="https://join.skype.com/invite/UNq8kzDVM5yd" target="_blank" title="live:.cid.d4098233ea15c62c">
     <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/>
   </a>
-  <a href="mailto:joy.danniel1998@gmail.com" target="_blank" title="joy.danniel1998@gmail.com">
+  <a href="mailto:joy.danniel1998@gmail.com" target="_blank" title="https://joydanniel1998.wixsite.com/goldstar">
     <img src="https://img.shields.io/badge/Google-green?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="mailto:goldstar19980919@gmail.com" target="_blank" title="goldstar19980919@gmail.com">
