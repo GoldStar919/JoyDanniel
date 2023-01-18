@@ -27,7 +27,7 @@ These are my major programming skills:
 
 Hard working + Clean code + Time delivery + Good communication
 
-Thanks for visiting my profile!
+Thanks for visiting my profile! 
 
 <h3>Here are my skills that I code with.</h3>
 <p>
