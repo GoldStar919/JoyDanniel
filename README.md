@@ -1,6 +1,6 @@
 # <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=💖Senior+Full+Stack+Software+Engineer.+💖"></div>
 
-<h3>Senior Full Stack Web & Blockchain & Mobile Developer</h3>
+<h3>Senior Full Stack Web & Blockchain & Mobile Developer!</h3>
 Hello, everyone!
 I am talented website developer who have rich experiences for over 7 years.
 
