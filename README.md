@@ -2,7 +2,7 @@
 
 <h3>Senior Full Stack Web & Blockchain & Mobile Developer!</h3>
 Hello, everyone!
-I am talented website developer who have rich experiences for over 7 years.
+I am a talented website developer who have rich experiences for over 7 years.
 
 These are my major programming skills:
 
